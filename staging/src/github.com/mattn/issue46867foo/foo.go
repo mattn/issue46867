@@ -1,1 +1,1 @@
-package foo
+package issue46867foo
