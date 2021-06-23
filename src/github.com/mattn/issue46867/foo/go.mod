@@ -1,1 +1,1 @@
-module github.com/mattn/hoge/foo
+module github.com/mattn/issue46867/foo
